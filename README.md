@@ -3,10 +3,10 @@
 
 With the help of this kali linux image, you can easily access PEzor on your system! 
 
-Basically, this image is built on the kalilinux/kali-rolling image and then the PEzor shellcode and PE packer is installed on top of it. Sometimes, it's vital to have access to PEzor, specially in a post exploit phase, but installing it on a host or a VM is a time-consuming task due to the dependencies that are required. Having said that, this docker image is created to solve this problem and provide a quick way to access PEzor.
+Basically, this image is built from the kalilinux/kali-rolling image and then the PEzor shellcode and PE packer is installed on top of it. Sometimes, it's vital to have access to PEzor, specially in a post exploit phase, but installing it on a host or a VM is a time-consuming task due to the dependencies that are required. Having said that, this docker image is created to solve this problem and provide a quick way to access PEzor.
 
 
-P.S. All the credits for the wonderful PEzor tool are reserved for @phra .
+P.S. All the credits for the wonderful PEzor tool are reserved for [@phra]( https://github.com/phra ) .
 
 # Disclaimer
 This docker image is only for educational purposes and ethical uses! Any misuse of this image is totally on your own risk. 
