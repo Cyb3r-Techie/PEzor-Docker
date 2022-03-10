@@ -12,7 +12,7 @@ P.S. All the credits for the wonderful PEzor tool are reserved for [@phra]( http
 This docker image is only for educational purposes and ethical uses! Any misuse of this image is totally on your own risk. 
 
 # About PEzor
-With the help of this incredbile tool, you can create FUD malwares that are capable of bypassing most of the well-known AVs. 
+With the help of this incredible tool, you can create FUD malwares that are capable of bypassing most of the well-known AVs. 
 For instance, you can pack the "mimikatz" executable file with the help of PEzor and then run it against victim's system for a full mem dump without any problem! 😎
 
 # How to use
